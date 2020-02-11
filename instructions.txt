@@ -1,0 +1,2 @@
+This project is a web application.
+To execute on browser use the url "http://"
